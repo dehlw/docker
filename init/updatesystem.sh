@@ -2,5 +2,5 @@
 # update system
 
 echo "Updating system, please wait!"
-apt-get update
+apt-get -q update
 

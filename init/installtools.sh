@@ -1,4 +1,4 @@
 #!/bin/bash
 # install tools
 
-apt-get install nano
+apt-get -qqy install nano
